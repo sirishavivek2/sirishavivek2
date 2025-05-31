@@ -64,6 +64,36 @@ Proficient with DevOps and system tools used in model deployment and orchestrati
 - GitLab CI/CD  
 - Ubuntu  
 
+## 🪚🔧 My Skills 😀😀
+
+These valuable tools and techniques have empowered me to successfully develop, deploy, and comprehend intricate machine learning and AI projects:
+
+### 🧠 Machine Learning & Deep Learning
+- Linear Regression, Logistic Regression  
+- Decision Trees (DT), Random Forests (RF)  
+- Support Vector Machines (SVM), K-Nearest Neighbors (KNN)  
+- Naive Bayes, XGBoost, GBDT  
+- Deep Neural Networks, CNNs, RNNs, LSTMs  
+
+### ⏱️ Time Series Forecasting
+- AR, ARMA, ARIMA, SARIMA  
+- Neural models like N-HiTS  
+
+### 🤖 Large Language Models (LLMs) & Generative AI
+- GPT-3, GPT-3.5, GPT-4  
+- LLaMA 2, Mixtral  
+- LangChain, LangGraph, RAG  
+- LlamaIndex, OpenAI API  
+
+### 🛠️ Tools & Technologies
+- Python, Jupyter, PyTorch, TensorFlow, Scikit-learn  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Docker, Docker Compose, Kubernetes  
+- Git, GitHub, GitLab CI/CD  
+- WSL, Linux, Ubuntu  
+
+These skills reflect my passion for AI and my commitment to staying on the cutting edge of technology.
+
 ---
 
 Thanks for visiting my GitHub! Feel free to connect and collaborate 🤝
