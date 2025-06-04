@@ -32,3 +32,38 @@ Tableau Project using real-time data of Los Angeles.
 <img src="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care/blob/main/health_assistant_doctor.png?raw=true" width="600"/>
 
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sirishavivek2/ML-Projects">
+        <img src="https://github.com/sirishavivek2/ML-Projects/blob/main/ml_image.png?raw=true" width="300"/><br/>
+        <b>📘 ML-Projects</b>
+      </a>
+      <p>Machine Learning models built using Jupyter Notebook.</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality">
+        <img src="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality/blob/main/Climate_change.png?raw=true" width="300"/><br/>
+        <b>🌍 Impact of Climate Change</b>
+      </a>
+      <p>Python + Spyder project analyzing AQI and climate factors.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care">
+        <img src="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care/blob/main/health_assistant_doctor.png?raw=true" width="300"/><br/>
+        <b>🏥 Homelessness and Access to Care</b>
+      </a>
+      <p>Tableau dashboard using Los Angeles real-time data.</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sirishavivek2/Your-Next-Project">
+        <img src="https://github.com/sirishavivek2/Your-Next-Project/blob/main/your-image.png?raw=true" width="300"/><br/>
+        <b>🤖 Your Next Project</b>
+      </a>
+      <p>Description of your upcoming or fourth project.</p>
+    </td>
+  </tr>
+</table>
+
