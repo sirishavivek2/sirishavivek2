@@ -4,7 +4,7 @@ I'm passionate about **Machine Learning**, **Data Science**, **Large Language Mo
 
 ## 👨‍🎓🙋‍♂️ About Me 💼🎒
 
-- 🎓 I hold a Master's Degree in **MSIS (Majoring in Data Science)** from **California State University, Los Angeles**.
+- 🎓 I hold a Master's Degree in **MSIS (Majors in Data Science)** from **California State University, Los Angeles**.
 - 🤖 I have both strong practical and theoretical experience in the development of **Large Language Models (LLMs)** and **Generative AI** technologies.
 
 ## 🔬 Machine Learning & Deep Learning Models
