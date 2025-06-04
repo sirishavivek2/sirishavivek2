@@ -22,7 +22,8 @@
 
 ## 🧠 My Data Science & AI Projects
 
-### 🌍 [The Impact of Climate Change Through Air Quality](https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality) 
+### 🌍 [The Impact of Climate Change Through Air Quality](https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality)  
 🌫 Python project using Spyder to analyze air quality data.  
 **Focus**: AQI, temperature anomalies, and CO₂ levels  
-<img src="[Climate_change.png](https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality/blob/main/Climate_change.png)" width="600"/>
+<img src="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality/blob/main/Climate_change.png?raw=true" width="600"/>
+
