@@ -19,3 +19,10 @@
 [![](https://visitcount.itsvg.in/api?id=sirishavivek2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧠 My Data Science & AI Projects
+
+### 🌍 [The Impact of Climate Change Through Air Quality](https://github.com/sirishavivek2/The-Impact-of-Climate-Change-Through-Air-Quality)  
+🌫 Python project using Spyder to analyze air quality data.  
+**Focus**: AQI, temperature anomalies, and CO₂ levels  
+<img src="Climate_change.png" width="600"/>
