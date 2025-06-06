@@ -25,38 +25,58 @@
 
 
 
-<table>
+<table width="100%" cellpadding="20">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/sirishavivek2/ML-Projects">
-        <img src="https://github.com/sirishavivek2/ML-Projects/blob/main/FakeNews.png?raw=true" width="300"/><br/>
-        <b>📘 Detecting fake News using ML Algorithm</b>
-      </a>
-      <p>Machine Learning models built using Jupyter Notebook.</p>
+      <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/sirishavivek2/ML-Projects" target="_blank">
+          <img src="https://github.com/sirishavivek2/ML-Projects/blob/main/FakeNews.png?raw=true" width="300" alt="Fake News"/><br/>
+          <b>📘 Detecting Fake News using ML Algorithm</b>
+        </a>
+        <p>Machine Learning models built using Jupyter Notebook.</p>
+      </div>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality">
-        <img src="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality/blob/main/Climate_change.png?raw=true" width="300"/><br/>
-        <b>🌍 Impact of Climate Change</b>
-      </a>
-      <p>Python + Spyder project analyzing AQI and climate factors.</p>
+      <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality" target="_blank">
+          <img src="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality/blob/main/Climate_change.png?raw=true" width="300" alt="Climate Change"/><br/>
+          <b>🌍 Impact of Climate Change</b>
+        </a>
+        <p>Python + Spyder project analyzing AQI and climate factors.</p>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care">
-        <img src="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care/blob/main/health_assistant_doctor.png?raw=true" width="300"/><br/>
-        <b>🏥 Homelessness and Access to Care</b>
-      </a>
-      <p>Tableau dashboard using Los Angeles real-time data.</p>
+      <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care" target="_blank">
+          <img src="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care/blob/main/health_assistant_doctor.png?raw=true" width="300" alt="Healthcare"/><br/>
+          <b>🏥 Homelessness and Access to Care</b>
+        </a>
+        <p>Tableau dashboard using Los Angeles real-time data.</p>
+      </div>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/sirishavivek2/126-Years-of-Historical-Olympic-Dataset">
-        <img src="https://github.com/sirishavivek2/126-Years-of-Historical-Olympic-Dataset/blob/main/Olympicimage.png?raw=true" width="300"/><br/>
-        <b>🤖126-Years-of-Historical-Olympic-Dataset</b>
-      </a>
-      <p>Data Analysis using R studio.</p>
+      <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/sirishavivek2/126-Years-of-Historical-Olympic-Dataset" target="_blank">
+          <img src="https://github.com/sirishavivek2/126-Years-of-Historical-Olympic-Dataset/blob/main/Olympicimage.png?raw=true" width="300" alt="Olympics"/><br/>
+          <b>🤖 126 Years of Historical Olympic Dataset</b>
+        </a>
+        <p>Data Analysis using R Studio.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" colspan="2">
+      <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 320px; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/sirishavivek2/Car-Sales" target="_blank">
+          <img src="https://github.com/sirishavivek2/Car-Sales/blob/main/CarSalesimage.png?raw=true" width="300" alt="Car Sales"/><br/>
+          <b>🚗 Car Sales Analysis</b>
+        </a>
+        <p>Data Visualization and insights from car sales trends.</p>
+      </div>
     </td>
   </tr>
 </table>
+
 
