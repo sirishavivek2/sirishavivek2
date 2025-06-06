@@ -22,14 +22,7 @@
 
 ## 🧠 My Data Science & AI Projects
 
-### 🌍 [The Impact of Climate Change Through Air Quality](https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality)  
-🌫 Python project using Spyder to analyze air quality data.  
-**Focus**: AQI, temperature anomalies, and CO₂ levels  
-<img src="https://github.com/sirishavivek2/The-Imapact-of-Climate-Change-Through-Air-Quality/blob/main/Climate_change.png?raw=true" width="600"/>
 
-### [Homelessness and Access to Care](https://github.com/sirishavivek2/Homelessness-and-Access-to-Care)  
-Tableau Project using real-time data of Los Angeles.  
-<img src="https://github.com/sirishavivek2/Homelessness-and-Access-to-Care/blob/main/health_assistant_doctor.png?raw=true" width="600"/>
 
 
 <table>
@@ -58,11 +51,11 @@ Tableau Project using real-time data of Los Angeles.
       <p>Tableau dashboard using Los Angeles real-time data.</p>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/sirishavivek2/Your-Next-Project">
-        <img src="https://github.com/sirishavivek2/Your-Next-Project/blob/main/your-image.png?raw=true" width="300"/><br/>
-        <b>🤖 Your Next Project</b>
+      <a href="https://github.com/sirishavivek2/126-Years-of-Historical-Olympic-Dataset">
+        <img src="https://github.com/sirishavivek2/126-Years-of-Historical-Olympic-Dataset/blob/main/Olympicimage.png?raw=true" width="300"/><br/>
+        <b>🤖126-Years-of-Historical-Olympic-Dataset</b>
       </a>
-      <p>Description of your upcoming or fourth project.</p>
+      <p>Data Analysis using R studio.</p>
     </td>
   </tr>
 </table>
