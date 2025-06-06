@@ -29,8 +29,8 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sirishavivek2/ML-Projects">
-        <img src="https://github.com/sirishavivek2/ML-Projects/blob/main/ml_image.png?raw=true" width="300"/><br/>
-        <b>📘 ML-Projects</b>
+        <img src="https://github.com/sirishavivek2/ML-Projects/blob/main/FakeNews.png?raw=true" width="300"/><br/>
+        <b>📘 Detecting fake News using ML Algorithm</b>
       </a>
       <p>Machine Learning models built using Jupyter Notebook.</p>
     </td>
