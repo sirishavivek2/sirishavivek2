@@ -79,5 +79,19 @@
   </tr>
 </table>
 
-My Blogs On Medium
-What is Machine Learning??
+
+## 🖥 My Blogs On Medium
+
+<table>
+  <tr>
+    <td width="50%" align="center" colspan="2">
+      <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 320px; margin: auto;">
+        <a href="https://medium.com/@sirishamahesh93/what-is-machine-learning-3d80fcbe22c1" target="_blank">
+          <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yJ7k1NQ_ozwPHiAeoWm1DA.png" width="300" alt="What is Machine Learning?"/><br/>
+          <b>🤖 What is Machine Learning?</b>
+        </a>
+        <p>A beginner-friendly guide to how machines learn from data and make predictions.</p>
+      </div>
+    </td>
+  </tr>
+</table>
